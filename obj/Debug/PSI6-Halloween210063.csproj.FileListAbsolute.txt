@@ -1,0 +1,20 @@
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\bin\Debug\PSI6-Halloween210063.exe.config
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\bin\Debug\PSI6-Halloween210063.exe
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\bin\Debug\PSI6-Halloween210063.pdb
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.csproj.AssemblyReference.cache
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6_Halloween210063.Form1.resources
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6_Halloween210063.Properties.Resources.resources
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.csproj.GenerateResource.cache
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.csproj.CoreCompileInputs.cache
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.exe
+C:\Users\I210063\source\repos\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.pdb
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\bin\Debug\PSI6-Halloween210063.exe.config
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\bin\Debug\PSI6-Halloween210063.exe
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\bin\Debug\PSI6-Halloween210063.pdb
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.csproj.AssemblyReference.cache
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6_Halloween210063.Form1.resources
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6_Halloween210063.Properties.Resources.resources
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.csproj.GenerateResource.cache
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.csproj.CoreCompileInputs.cache
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.exe
+C:\Users\JorgeF\Downloads\PSI6-210063FRQ (2)\PSI6-Halloween210063\PSI6-Halloween210063\obj\Debug\PSI6-Halloween210063.pdb
