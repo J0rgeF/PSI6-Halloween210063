@@ -42,7 +42,7 @@ namespace PSI6_Halloween210063
 
         private void btnBadNeighbors_Click(object sender, EventArgs e)
         {
-            MessageBox.Show($"Did not open the door for {sweets.Count(a => a.Opened == false)} neighbors");
+            MessageBox.Show($"{sweets.Count(a => a.Opened == false)} neighbors didn't open the door");
         }
 
         private void btnAverage_Click(object sender, EventArgs e)
